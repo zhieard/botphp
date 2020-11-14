@@ -30,8 +30,8 @@ Bot tidak akan berjalan, jika tidak diamati coding ini sampai akhir.
 */
 
 //isikan token dan nama botmu yang di dapat dari bapak bot :
-$TOKEN      = "TokenBotmu";
-$usernamebot= "@PertamaBot"; // sesuaikan besar kecilnya, bermanfaat nanti jika bot dimasukkan grup.
+$TOKEN      = "1223041399:AAEMqFiNcgfstscx2ntM7DTomnzXoywYNZM";
+$usernamebot= "@inibotya_bot"; // sesuaikan besar kecilnya, bermanfaat nanti jika bot dimasukkan grup.
 
 
 // aktifkan ini jika perlu debugging
